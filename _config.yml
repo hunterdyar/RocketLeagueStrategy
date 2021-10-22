@@ -1,4 +1,4 @@
-remote_theme: karloespiritu/BlackDoc
+remote_theme: poole/lanyon
 title: Rocket League Strategy
 show_downloads: false
 url: http://hdyar.com/RocketLeagueStrategy/
@@ -12,6 +12,3 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  
-# Custom vars
-version:            2.0.1
