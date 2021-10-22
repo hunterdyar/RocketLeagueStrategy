@@ -2,7 +2,7 @@ remote_theme: poole/lanyon
 title: Rocket League Strategy
 show_downloads: false
 url: http://hdyar.com/RocketLeagueStrategy/
-baseurl: http://hdyar.com/RocketLeagueStrategy/
+baseurl: /
 
 author:
   name: Hunter Dyar
