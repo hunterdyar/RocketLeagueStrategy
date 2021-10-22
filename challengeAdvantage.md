@@ -16,3 +16,7 @@ Play will sometimes devolve into ugly, boring, nothing play. Neither team has a 
 
 *Creating something from nothing* is an seriously important skillset for high level players. When all else is equal, a players' ability to take neutral challenges and come out in a strong position. Pro players like Jstn, Fairy Peak! and Firstkiller all excel at this, consistently able to beat multiple challenging players - the other teams position 1 challenge, and the following challenge from who-was position 2. They give their team consistently advantageous positions.
 
+---
+
+[Continue to Rotations](rotations.md)
+

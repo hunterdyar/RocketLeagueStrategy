@@ -1,0 +1,35 @@
+---
+title: Terminology
+
+---
+
+- **Up:** For us, “up” is usually “up in the air” while “forward”, “north”, “down” (as in downfield), “deep”, “long” etc for end-to-end positioning calls. Sometimes up as in ‘upfield’ and we just go from context, but we *try* to use “up” for verticality. One exception is the “I’m up” call like “i’m going for the ball in the air” can sometimes just mean “i’m going for the ball/challenge”.
+- **Safe**: Usually means “covering” or “back”. It can also mean how one is approaching a play, like shadowing on defense, taking clean 50/50s, or air-dribbling. These may be safer than, say, a dunk attempt clear. Rare for this to be confusing, because context makes it pretty obvious how one means “safe”.
+- **Challenge:** One player stopping another from doing what they want with the ball. If we are fake challenging, we try to specifically call that. If one shouts ‘challenge’ as a command, we mean to just go and try and get any challenge or disruption. Often happens while somebody is shadowing. "Go Challenge" basically means that the quality of the challenge isn’t as important as getting any interruption. (such as to stop a dangerous infield pass we don’t have covered). The person calling it is probably ready for where the ball goes next.
+- **50/50:** A challenge when two players hit the ball at about the same time. A 50/50 is not truly random. Good vision, reads, car positioning/angles, boost/flip/jump timing, and more allow for control over the balls exit and your recovery. "Somewhat unpredictable" does not mean random.
+- **Dunk:** Not a 50/50, but close. The dunking car gets a clean hit right after another player hit the ball. That player read where the hit was going to go, and likely prejumped to get there. Getting absolutely dunked on feels *bad*. And dunking the ever-living crap out of a player like “*I read you”* feels GREAT.
+- **Prejump:** Committing to the air before a read can be deterministically made. You might be pre-jumping in anticipation of a sick pass, being forced to jump up to make a goal-line save with no boost, or going real early on an opponent's touch. Or maybe you’re just prescient. There is an element of chance, which is what makes it a pre-jump.
+- **Hyper-rotate:** When position 1 (A) moves past the ball instead of making a play on it. Confusing the defense, the ball is now further back in rotations then you seem positioned for, and the defense likely are not positioned for this too. A, in anticipation of a cherry pick, redirect, dump 'n chase, high midfield clear, or whatever from B (who was position 2, is suddenly 1). It works because the other teams challenge was going to be on who they thought was player A, and they have to adjust to player B.
+- **Wing**: A position to the side and slightly behind a player. Ready for a pass to cut sideways, but too far forward (lateral) for a pass that is directly sideways to the play. Passing to a player on the wing involves hitting it to the side and forward.
+- **Drop**: The ball goes more or less straight down. Often the least expected play from a player aerialing. Like a bunt, a drop can be a very effective pass. It’s an obvious but still effective play when right above the other team's net. [Example](https://www.gifyourgame.com/SorryPaddedCaptainolimar).
+- **Double**: Double-touch. Hitting the ball into their backboard (or any surface), and then hitting it again after it bounces back to you. Generally without landing. Extremely difficult, extremely effective. Very hard to defend. The OCE region calls double-touches "deevos" after pro player "Deevo", who was the first person to not just be good at it, but crush opponents at the highest level (like season 1 of rlcs. Now even Turbopulsa can hit a double). [Double Touch Example](https://www.gifyourgame.com/SuitedDottedZaon)
+- **Doubled**: When plural, 'doubled' is short for “double commit”. “They doubled” is the other team has double committed, but “watch double” (singular) is “look out for that one player on the other team landing a double touch”.
+- **Dish**: Going from with-the-ball along their-backboard to shooting. Jumping out, boosting to the ball, flipping or boosting it into their net. Sometimes called a "Doomsee Dish" after pro player doomsee.
+- **Doink**: The ball skips off of your roof. Debatable if a single jump is a "true doink" or if your wheels need to be grounded. In terms of comms/shouts, let's either is a doink. If you say "doinking", we’re ready for the ball to skip off of your car. [Example: Double Doink](https://www.gifyourgame.com/BrimfulAliveJenova)
+- **Extension**: A no-angle redirect, if that makes sense. It doesn't, so we call it an extension: Hitting the ball in the same direction it is already going. Usually a weak defensive clear, one could aerial into it (or a doink!) for an extension, and turn it into a nice powerful clear.
+- **London Bounce**: when the ball hits the bottom corner ramp and launches up and out into the air. Named after the famous jstn 0-second goal, which happened in season 5 of the RLCS World Championship LAN event in London. Usually only comm’d at 0 seconds, to inform that it is not going to hit the ground. In dropshot, we call this bounce “Getting Lipped”.
+- **Waterfall**, **Guillotine**, or **Straight Down**: This is when the ball hits the corner ramp at the ceiling above the other teams net, and will go *straight down* in front of their net. Extremely hard to read this bounce when you are in net. I stopped hearing Guillotine years ago, I still hear Waterfall occasionally amongst players, but RLCS casters mostly stopped saying it. 'Straight Down' is the best to comm while playing. 
+- **Wiffty-Wiffty:** Another old one. It's word-play on 50/50. When two players both go up to block the other during a 50/50, and neither end up hitting the ball.
+- **Backflip/Sadflip:** Accidentally backflipping (or any flip) when trying to fast-aerial. 
+- **Own-Goal:** Wrong net, dingus. Oops. Happens to the [best of us](https://www.youtube.com/watch?v=7Nin04OOWNk).
+- **Pads:** I have heard many nicknames for the small boost pads. Some include: pennies, dimes, spots, minis, miniboosts. Our group of friends just says “pads’ and occasionally “pennies”.
+- **Boost:** For the big boost, it’s pills, canister, full, tanks, orbs, juice, melons. Although mostly we just say “boost” for big boost,since “pads” is the small ones.
+- **Corner:** Either the corner of the pitch or one of the 4 big boost pickups.
+- **Brakecheck:** Think “Fake lite”. A quick tap of the breaks while approaching the ball to throw off the tempo of the opponent. See [this clip](https://clips.twitch.tv/ImpossibleHilariousZucchiniLeeroyJenkins-l7sucmzIFdVPCJlB) of the bounce dribble master, Okhalid. Note how the nose of the car dips right before the shot. The break kept Okhalid back *just* far enough to get the angle around the defender.
+- **Wormburner**: This is a golf phrase (I think) For a shot that slides along the ground, getting basically zero elevation.
+
+---
+
+[Also see: Shouts](shouts.md)
+
+[Also see: Plays](plays.md)

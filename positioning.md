@@ -161,9 +161,7 @@ It’s retreat, grab boost if you can - and don’t assume you can. You're setti
 
 ---
 
-[Continue to Rotations](rotations.md)
-
-[See: Challenge Advantage](challengeAdvantage.md)
+[Continue to Challenge Advantage](challengeAdvantage.md)
 
 [Back To Home](index.md)
 
