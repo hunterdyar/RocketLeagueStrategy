@@ -1,6 +1,8 @@
-# Positioning
+---
+title: Positioning Basics
+---
 
-> I will describe players "A,B,C" in plays, which will be the players in position 1, 2, and 3 at the beginning of the described play.
+
 
 ## Positions: 1st, 2nd, 3rd, and Recovering
 

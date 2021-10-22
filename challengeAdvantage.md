@@ -1,4 +1,6 @@
-# Challenge Advantage
+---
+title: Challenge Advantage
+---
 
 [Back to Home](index.md)
 
