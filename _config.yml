@@ -1,3 +1,17 @@
 remote_theme: karloespiritu/BlackDoc
 title: Rocket League Strategy
 show_downloads: false
+url: http://hdyar.com/RocketLeagueStrategy
+baseurl: /
+
+author:
+  name: Hunter Dyar
+  url: https://twitter.com/hdyar
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  
+# Custom vars
+version:            2.0.1
