@@ -112,3 +112,4 @@ Shouts can often be informative (I am here) or commands (you go there), dependin
 
 [Also See: Plays](plays.md)
 
+[Back To Home](index.md)
