@@ -16,3 +16,12 @@ The original point of this was to write down the “shouts” so we could all ag
 
 #  Communication
 
+- [Terminology](communication/terminology.md)
+- [Shouts](communication/shouts.md)
+- [Plays](communication/plays.md)
+
+# Strategy
+
+- [Kickoffs](kickoffs.md)
+- [Ballchasing](ballchasing.md)
+
