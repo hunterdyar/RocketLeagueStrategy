@@ -16,9 +16,10 @@ The original point of this was to write down the “shouts” so we could all ag
 
 #  Communication
 
-- [Terminology](communication/terminology.md)
-- [Shouts](communication/shouts.md)
-- [Plays](communication/plays.md)
+- [Handling Conflict](handlingConflict.md)
+- [Terminology](terminology.md)
+- [Shouts](shouts.md)
+- [Plays](plays.md)
 
 # Strategy
 

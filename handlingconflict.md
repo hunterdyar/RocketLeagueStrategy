@@ -15,3 +15,6 @@ While double-commiting for an aerial, call out if you are continuing to hit the 
 
 Remember, mid-game is not the time to decide or reflect on who *should* have gone. It's the time to sort out your rotations and recover quickly.
 
+---
+
+[Back to Home](index.md)
