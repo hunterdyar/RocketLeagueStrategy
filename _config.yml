@@ -2,7 +2,7 @@ remote_theme: riggraz/no-style-please
 title: Rocket League Strategy
 show_downloads: false
 url: http://hdyar.com/RocketLeagueStrategy/
-baseurl: ""
+baseurl: /RocketLeagueStrategy/
 
 author:
   name: Hunter Dyar
