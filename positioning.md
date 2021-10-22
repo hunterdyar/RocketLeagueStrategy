@@ -2,7 +2,7 @@
 title: Positioning Basics
 ---
 
-
+[index.md](Back to Home)
 
 ## Positions: 1st, 2nd, 3rd, and Recovering
 
@@ -158,3 +158,12 @@ You likely just became position 1, or were just position 3. Is ex-1 still recove
 #### Position 3
 
 It’s retreat, grab boost if you can - and don’t assume you can. You're setting yourself up to be able to play next.
+
+---
+
+[Continue to Rotations](rotations.md)
+
+[See: Challenge Advantage](challengeAdvantage.md)
+
+[Back To Home](index.md)
+

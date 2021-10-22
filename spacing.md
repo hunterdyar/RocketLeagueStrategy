@@ -18,3 +18,8 @@ Spacing is minimizing the overlap of a teams  area-of-influence’s. Basically: 
 
 *Spacing is minimizing the overlap of a teams  area-of-influence’s. Basically: Spread out, and don’t be pointed at the  same thing. Stay away from each other. When you are near each other, you are probably going different speeds and/or different directions.*
 
+---
+
+[Continue to Positioning](positioning.md)
+
+[Back to Home](index.md)
