@@ -72,3 +72,7 @@ On a wide-approach kickoff, the players taking the kickoff tend to land on the o
 
 For the cheating player, it's easy. You have 12 boost you can grab.  I like to diagonal-flip without boosting as much as a kickoff, and position behind the kickoff player facing the opponents net. The cheating player has room to adjust since they start closer than the opposing cheating player, assuming the opposing team did the kickoff the dumb normal way.
 
+![Screenshot of double wide kickoff](C:\Users\Blooper\JupiterSync\Projects\Websites\RocketLeagueStrategy\images\doubleWideKickoff.jpg)
+
+*This screenshot is partway through a kickoff. The blue team is taking the kickoff the better way, with mrbadass taking boost behind the kickoff-taking palyer (exonico), and demi cheating. The orange team has SorrySorrySorry taking the kickoff and Karizzdom half-flipping to boost, and piopptart also getting boost for some reason. Blue team is partied up while Orange team is solo-queuing.*
+
