@@ -12,7 +12,7 @@ This started as a shared doc where I wrote down the “shouts” so we could all
 - [Challenge Advantage](challengeAdvantage.md)
 - [Rotations](rotations.md)
 - [Risk/Reward Model for Adaptation](riskreward.md)
-- [Boost](boost.md)
+- [Boost Control](boost.md)
 
 #  Communication
 
