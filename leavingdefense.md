@@ -38,10 +38,10 @@ What's more dangerous, hitting the ball to the other team, or hitting it to a te
 
 If you're inviting the opponent to take a 50 against you, you can control it better and recover faster. 
 
-<iframe src="https://clips.twitch.tv/embed?clip=BusyAmusedAlbatrossLitFam-YpB8FFWijUNbQXLq&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=BusyAmusedAlbatrossLitFam-YpB8FFWijUNbQXLq&parent=hdyar.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 So, on defense, sit behind the ball and *let the other team come challenge you.* Make them possession cost them something, don't give it away for free. If the 50 goes neutral, you still forced the other team to use boost and use up a player in order to continue their offensive pressure, while you spend significantly less. 
 
 More likely, you can get *multiple 50s in a row.* You can 50 one player, and then get back to the ball before the second offensive player gets there. You can beat them with a touch or another 50, and just like that you have the challenge advantage and are free of pressure.
 
-<iframe src="https://clips.twitch.tv/embed?clip=ArtsyEncouragingChowderM4xHeh-75o4DOhEFoSLeYol&parent=www.example.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=ArtsyEncouragingChowderM4xHeh-75o4DOhEFoSLeYol&parent=hdyar.com/RocketLeagueStrategy/" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
