@@ -46,6 +46,6 @@ So, on defense, sit behind the ball and *let the other team come challenge you.*
 
 More likely, you can get *multiple 50s in a row.* You can 50 one player, and then get back to the ball before the second offensive player gets there. You can beat them with a touch or another 50, and just like that you have the challenge advantage and are free of pressure.
 
-<iframe src="https://clips.twitch.tv/embed?clip=ArtsyEncouragingChowderM4xHeh-75o4DOhEFoSLeYol&parent=github.io" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<iframe src="https://clips.twitch.tv/embed?clip=ArtsyEncouragingChowderM4xHeh-75o4DOhEFoSLeYol&parent=hdyar.com" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
 
 [*Dignitas 50s out of defense*](https://clips.twitch.tv/ArtsyEncouragingChowderM4xHeh-75o4DOhEFoSLeYol?tt_content=url&tt_medium=clips_api)
