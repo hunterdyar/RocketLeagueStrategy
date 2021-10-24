@@ -1,6 +1,9 @@
 ---
 title: Boost Control and Boost Management
+
 ---
+
+![Corner Boost Pill](images/boostCloseUp.jpg)
 
 > Oh so much to be written about boost control and how it affects risk/reward, positioning, micro-positioning, pathing, rotation timing, and more. Maybe I’ll write my thoughts on it down one day.... 
 
