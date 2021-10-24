@@ -1,3 +1,9 @@
+---
+title: Leaving Defense
+---
+
+
+
 How do you get out of defense?
 
 Getting out from offensive pressure is one of the hardest things for a team to do, because it requires a lot of communication with your team. There are different approaches that you may find yourself able to capitalize on.
