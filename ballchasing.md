@@ -3,7 +3,7 @@ title: Ballchasing
 
 ---
 
-Ballchasers! *The worst.*
+Ballchasers! *The worst.* But not really.
 
 The term “ballchasing” gets used a lot, and everyone seems to mean something a little bit different. So let’s define it for ourselves. I’m going to be more particular and specific, because I want to give you ballchasing as a tool, not as an insult to mindless players who just challenge everything.
 
