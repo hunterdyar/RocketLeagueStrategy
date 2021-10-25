@@ -16,7 +16,7 @@ This started as a shared doc where I wrote down the “shouts” so we could all
 
 #  Communication
 
-- [Handling Conflict](handlingConflict.md)
+- [Handling Conflict](handlingconflict.md)
 - [Terminology](terminology.md)
 - [Shouts](shouts.md)
 - [Plays](plays.md)
