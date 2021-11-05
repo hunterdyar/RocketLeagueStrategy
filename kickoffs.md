@@ -76,3 +76,16 @@ For the cheating player, it's easy. You have 12 boost you can grab.  I like to d
 
 *This screenshot is partway through a kickoff. The blue team is taking the kickoff the better way, with mrbadass taking boost behind the kickoff-taking palyer (exonico), and demi cheating. The orange team has SorrySorrySorry taking the kickoff and Karizzdom half-flipping to boost, and piopptart also getting boost for some reason. Blue team is partied up while Orange team is solo-queuing.*
 
+# The No-Cheat Kickoff
+
+If you aren't sending a player up to cheat, you are sending one to boost, or two to boost.
+
+The decision for the boost-grabbing player is how they turn around at the boost: up the line, or back towards net.
+
+If you are double-boost grabbing (risky), have one player turn up, and the other one turn back to net. Have the player who is on the side the kickoff taker can lose the ball to turn up.
+
+If you are single-boost grabbing, the choice to turn up or turn back is a matter of aggression, but if you do want the player to turn up, have that player be on the side the kickoff-taker is trying to lose the ball to. When you do this, the back boost should be available for the kickoff-taker, for the same reasons described above.
+
+The other player should grab the 12 boost in front of them and then just back up into net, or the slightly riskier small lap (non-cheat) of a few pads near the net.
+
+Kickoff taker, if you are doing a no-cheat kickoff, your goal is to kill it to the back corner where your teammate can grab it. You don't want to kill the ball in the middle.
