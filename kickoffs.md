@@ -21,11 +21,11 @@ We have the non-kickoff players tell our kickoff taker where they plan on going.
 
 For the cheating player, their priorities before transitioning into position 1/2 are, in order:
 
-- Score on an open net.
-- Get possession of the ball/stop the other team from getting possession. (But not weakly shooting at a defending net. Consider dribbling the ball to the corner and looking for a wall pass instead of always going for the shot).
-- 50, Bump, or disrupt the other cheating player if the ball get killed but goes behind you to prevent them from taking a free shot.
+- Score on an open net
+- Get possession of the ball/stop the other team from getting possession. (But not weakly shooting at a defending net. Consider dribbling the ball to the corner and looking for a wall pass instead of always going for the shot)
+- 50, Bump, or disrupt the other cheating player if the ball gets killed but goes behind you to prevent them from taking a free shot
 - Steal midfield boost from the other team
-- Leave midfield boost for the kickoff-taker (who has the least boost right now).
+- Leave midfield boost for the kickoff-taker (who has the least boost right now)
 
 #### Boost-Grabbing Player
 
@@ -36,17 +36,17 @@ For the back boost grabbing player, they should:
 - - For this reason, on double-diagonal kickoffs, it's usually better for the opposite diagonal player to cheat, and the back-middle player to go grab boost. *Uh, why don’t we do this?*
 
 - Take a fast, tight turn. Learn powerslide turns! 
-- They should not go up to the wall.
-- They should not start boosting forward until they see the play.
-- They should be able to get back to the net quickly.
-- Won’t save a banger, but could save a roller.
-- They should default to turning *backwards towards net* if the other teammate is on a cheat, and only turn *upfield* if the 3rd player is playing in net, or only doing a very soft cheat to the second pad (and already this is an aggressive position, despite not having a followup on the ball).
+- They should not go up to the wall
+- They should not start boosting forward until they see the play
+- They should be able to get back to the net quickly
+- Won’t save a banger, but could save a roller
+- They should default to turning *backwards towards net* if the other teammate is on a cheat, and only turn *upfield* if the 3rd player is playing in net, or only doing a very soft cheat to the second pad (and already this is an aggressive position, despite not having a followup on the ball)
 
 #### Staying In-Net Player
 
 For the player not getting boost, nor cheating, they should: 
 
-- Creep forward and grab the nearby 12 pad.
+- Creep forward and grab the nearby 12 pad
 - Just be ready for what's next, safely sliding into rotation
 
 #### Player On Kickoff
