@@ -23,6 +23,7 @@ For the cheating player, their priorities before transitioning into position 1/2
 
 - Score on an open net.
 - Get possession of the ball/stop the other team from getting possession. (But not weakly shooting at a defending net. Consider dribbling the ball to the corner and looking for a wall pass instead of always going for the shot).
+- 50, Bump, or disrupt the other cheating player if the ball get killed but goes behind you to prevent them from taking a free shot.
 - Steal midfield boost from the other team
 - Leave midfield boost for the kickoff-taker (who has the least boost right now).
 
