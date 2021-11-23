@@ -40,7 +40,7 @@ For the back boost grabbing player, they should:
 - They should not start boosting forward until they see the play
 - They should be able to get back to the net quickly
 - Won’t save a banger, but could save a roller
-- They should default to turning *backwards towards net* if the other teammate is on a cheat, and only turn *upfield* if the 3rd player is playing in net, or only doing a very soft cheat to the second pad (and already this is an aggressive position, despite not having a followup on the ball)
+- They should default to turning *backwards towards net* if the other teammate is on a cheat, and only turn *upfield* if the 3rd player is playing in net, or only doing a very soft cheat to the second pad (and already this is an aggressive position, despite not having a followup on the ball). _This is something most teams do WRONG, and get needlessly punished for all the time. "unlucky", they say, incorrectly._
 
 #### Staying In-Net Player
 
