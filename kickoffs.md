@@ -13,7 +13,7 @@ Generally.....
 
 We have the non-kickoff players tell our kickoff taker where they plan on going. Instead, for whatever reason, if the person taking kickoff says something like “right” or “cheat”, then that is the law now. For us, the person taking kickoff has the final say on the kickoff play, including a call for faking.
 
-- The “left-goes” rule-of-thumb are always **secondary** to anything communicated. Voice > in-game chat > left. 
+- The “left-goes” rule-of-thumb are always **secondary** to anything communicated. Voice > in-game chat > left. Kickoff Taker > Teammates.
 - Flash doesn’t “do” kickoffs.
 - Don't get double boost. This leaves us with full boost, but the timing on the boost respawns means you won’t be able to fill up, it's unlikely you will be grabbing back boosts at the same time, you would rather have them dithered. This is an aggressive play for pushing forward hard.
 
