@@ -51,7 +51,7 @@ For the player not getting boost, nor cheating, they should:
 
 #### Player On Kickoff
 
-The kickoff-goer should be focusing on recovering fast. Their kickoff should be focused on *not getting scored on*, *recovering quickly*, and *gaining possession.*
+The kickoff-goer should be focusing on recovering fast. Their kickoff should be focused on *not getting scored on*, *recovering quickly*, and *gaining possession.* Most kickoff-takers don't pay enough attention to their recoveries after the kickoff. Leave a little boost for yourself to recover with, if you can. Try boosting right at the moment of contact with the ball, for a less volatile car reaction.
 
 - We do not always want to go for the lose-to-corner play. It’s countered easily at our level, and we lose to a hard cheat frequently.
 - One should try to leave some boost in the tank to recover with.
