@@ -1,4 +1,4 @@
-Almost 3k hours and I'm only writing this down now lol. Positions, Rotations, Terms, Communication, Kickoffs, other stuff. This is not a complete guide, I'm just writing down the parts I have opinions on. If you're here to learn Rocket League meta, this won't teach everything.
+Over 3k hours and I'm only writing this down now lol. Positions, Rotations, Terms, Communication, Kickoffs, other stuff. This is not a complete guide, I'm just writing down the parts I have opinions on. If you're here to learn Rocket League meta, this won't teach everything.
 
 By SorrySorrySorry. 
 Help from Flash and KaPow.
