@@ -7,6 +7,8 @@ title: Rotations
 
 Player 1 hits the ball. They leave the play ("rotate out") to position 3. Player two takes over play on the ball (becomes position 1), and player 3 moves to support player 2.
 
+A lot of players think the term "rotation" comes from the path you make on the field, moving in a large circle. This isn't right, even if it is sometimes accurate. We really mean changing the various responsibilities (like who is making a play on the ball) between the players fluidly. The paths you take on the shape mix and morph and switch directions. If you're looking for the shape the cars are taking, watching high level play will be confusing. Pay attention to the nameplates, not the path they take, and you will notice the team rotating who is doing what continuously.
+
 All players path over boost while moving between positions. Position 1 rotating to position 3 often grabs the back corner boost.
 
 > I will use Player "A", "B", and C" to refer to players who were at positions 1, 2, and 3 respectively, at the start of the described play.
