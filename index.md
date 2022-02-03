@@ -3,7 +3,7 @@ Over 3k hours and I'm only writing this down now lol. Positions, Rotations, Term
 By SorrySorrySorry. 
 Help from Flash and KaPow.
 
-This started as a shared doc where I wrote down the “shouts” so we could all agree on our comms. It just kind of ballooned into more. I'll likely start coaching a collegiate team in the future (I work for a university that is trying to start an eSports program), so that motivated me somewhat too.
+This started as a shared doc where I wrote down the “shouts” so we could all agree on our comms. It just kind of ballooned into more. I'll likely start coaching a collegiate team in the future (I work for a university), so that motivated me somewhat too.
 
 # Fundamentals
 
