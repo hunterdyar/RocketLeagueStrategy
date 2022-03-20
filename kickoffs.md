@@ -5,8 +5,6 @@ title: Kickoff Theory
 
 Kickoffs are the only set-pieces in the game. Have a plan and be on the same page.
 
-
-
 Generally.....
 
 ## Kickoff Guidelines
@@ -60,6 +58,19 @@ The kickoff-goer should be focusing on recovering fast. Their kickoff should be 
 - One should land far enough away from the ball to do this. Try flipping earlier, but not so early you lose speed from acceleration. Good kickoffs are hard, and all muscle memory. 
 - One should have a stable, safe kickoff they can rely on that they won’t fumble and will be able to score. Usually a slightly slower kickoff that, even if they speed-flip, they won’t score instantly on it.
 - If you mess up the flip or approach, and you didn’t overshoot it, you can still probably boost back into some kind of shot-blocking position. I’ve “recovered” many fumbled kickoffs with a wavedash. Have that in your toolbelt.
+
+#### Kickoff Impact/Mechanics
+There are many different strategies for getting to the ball and hitting it. I won't explain the actual mechanics here. The major traits of a kickoff are: Consistency, speed to get to the ball, boost usage (boost remaining after), speed of recovery after the kickoff, and the kickoff itself - where the ball goes. In 3s, you should focus on having a fast recovery, losing the ball a corner, and being consistent and non-volatile.
+
+For getting to the ball, if you always use all of your boost, try practicing different kickoffs. I find the wave-dash approach to be something that will rarely win me a kickoff, but also rarely outright lose me a kickoff, since I have more time to adjust my cars position to the other player. It's a good fallback if I feel like I've been destroyed on "normal" approaches. For your flip, try double tapping *faster*, so your car is not as high off the ground when you flip, and you get back to the ground faster.
+
+For the Impact on the ball, first focus on your height. Make sure you are hitting the ball halfway up, goal-side of the ball. If your flip has you landing too late, flip earlier, or see if you are boosting during your flip that's giving your car unwanted lift (Watch replays). You want to be positioned just under the center point, not dead-center, because you want your car to bounce down to the ground for a faster recovery, not up. With that, you want to be as center-height on the ball as you can. Plus the center of the ball is closer to you than the bottom, you'll hit it sooner. As far as lateral positioning going, that depends on your kickoff and goal.
+
+I recommend side-flipping your impact with the ball, it is the most consistent, and fast and well positioned for recovery in most situations. If you haven't been side-flipping on impact, just try it. 
+
+I really like the wave-dash recovery kickoff. You don't flip into the ball, just single jump, and you position your car to bounce back down into the ground, tilting/angled such that you don't twist. When you land on the ground, you still have a flip. Wavedash on that landing for a surprising increase in speed. I think it's good to practice, as it forces you to think about how your car bounces on a kickoff, not just where the ball goes.
+
+If your car bounces off of the ball and goes upward, I think your kickoff sucks. If your car bounces off of the ball and goes upward and you don't have boost to recover with, I really think your kickoff sucks.
 
 # The Double Wide Kickoff
 
